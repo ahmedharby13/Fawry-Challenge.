@@ -1,7 +1,5 @@
 # Fawry E-commerce System
 
-This is my implementation for the **Fawry Quantum Full Stack Internship Challenge #3**.
-
 ## 📦 Project Overview
 
 This Java-based application simulates a basic e-commerce system with the following features:
