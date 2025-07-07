@@ -1,5 +1,3 @@
-# Fawry E-commerce System
-
 ## 📦 Project Overview
 
 This Java-based application simulates a basic e-commerce system with the following features:
